@@ -11,7 +11,7 @@
 
 [Happy Go Lucky - Bachi](https://open.spotify.com/album/7a1lJcddKEyLNPHLkjA9vX)
 
-[Native - One Republic](https://open.spotify.com/album/7a1lJcddKEyLNPHLkjA9vX)
+[Native - One Republic](https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF)
 
 [Last Stand - Sabaton](https://open.spotify.com/album/3KePhGKcmAXACdYBFtILDX)
 
