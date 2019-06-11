@@ -2,7 +2,7 @@
 ### By: JBAFT
 
 #### 5 guesses, we only say "yes" or "no"
-#### All guesses must be made in 14 East Cherry
+#### All guesses must be made in 14 West Cherry
 *all music links are through Spotify*
 
 [Business as Usual - Men at Work](https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84)
@@ -19,3 +19,5 @@
 ### Weekly Leaders
 1. EIP - 3
 2. Ben - 4
+
+*Updates to styles and more coming soon*
