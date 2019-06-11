@@ -307,3 +307,10 @@ caption{display:table-caption;font-weight:300;font-size:1.3em;text-transform:upp
     font-size: 0.8rem;
 }
 
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}
