@@ -1,4 +1,4 @@
-# Album of the Day
+# Album of the Week
 ### By: JBAFT
 
 #### 5 guesses, we only say "yes" or "no"
