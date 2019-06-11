@@ -14,3 +14,8 @@
 [Native - One Republic](https://open.spotify.com/album/7a1lJcddKEyLNPHLkjA9vX)
 
 [Last Stand - Sabaton](https://open.spotify.com/album/3KePhGKcmAXACdYBFtILDX)
+
+
+### Weekly Leaders
+1. EIP - 3
+2. Ben - 4
