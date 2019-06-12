@@ -6,9 +6,6 @@
 *all music links are through Spotify*
 As a group Jack, Aaron, Fabuola, Brendan, and Tyler each pick an album that they each enjoy and suggest. The goal of our weekly competition is to guess who selected each album. Good Luck.
 
-
-<div class="row"><div class="column">
-
 ### Current Week
 [Business as Usual - Men at Work](https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84)
 
@@ -19,13 +16,10 @@ As a group Jack, Aaron, Fabuola, Brendan, and Tyler each pick an album that they
 [Native - One Republic](https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF)
 
 [Last Stand - Sabaton](https://open.spotify.com/album/3KePhGKcmAXACdYBFtILDX)
-</div><div class="column">
 
 ### Weekly Leaders
 1. EIP - 3
 2. Ben - 4
-
-</div></div>
 
 ### Past Weeks
 #### Week Two
@@ -34,6 +28,8 @@ As a group Jack, Aaron, Fabuola, Brendan, and Tyler each pick an album that they
 [Confessions of a Dangerous Mind - Logic](https://open.spotify.com/album/6GeHCNwwqMMUrpxuGTRYcf)
 
 [Songs You Know By Heart - Jimmy Buffet](https://open.spotify.com/album/6MlglzxBetAjx7yZNAQt3D)
+
+[Ride the Lightning - Metallica](https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr)
 
 [One Time - Marian Hill](https://open.spotify.com/album/4GgwHp794AzZkv2hh8geZu)
 
