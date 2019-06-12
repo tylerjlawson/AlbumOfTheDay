@@ -4,6 +4,7 @@
 #### 5 guesses, we only say "yes" or "no"
 #### All guesses must be made in 14 West Cherry
 *all music links are through Spotify*
+
 As a group Jack, Aaron, Fabuola, Brendan, and Tyler each pick an album that they each enjoy and suggest. The goal of our weekly competition is to guess who selected each album. Good Luck.
 
 ### Current Week
