@@ -201,3 +201,10 @@ blockquote {
   border-left: 3px solid #01ff70;
   padding-left: 1rem;
 }
+
+::selection {
+  background: #2ecc40; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: #2ecc40; /* Gecko Browsers */
+}
