@@ -1,6 +1,5 @@
 # Album of the Week
-### By: JBAFT
-*-biː-eɪ-ɛf-tiː*
+### By: JBAFT (*-biː-eɪ-ɛf-tiː*)
 
 #### 5 guesses, we only say "yes" or "no"
 #### All guesses must be made in 14 West Cherry
