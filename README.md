@@ -15,7 +15,7 @@ As a group Jack, Aaron, Fabuola, Brendan, and Tyler each pick an album that they
 
 [Native - One Republic](https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF)
 
-[Last Stand - Sabaton](https://open.spotify.com/album/3KePhGKcmAXACdYBFtILDX)
+[The Last Stand - Sabaton](https://open.spotify.com/album/3KePhGKcmAXACdYBFtILDX)
 
 ### Weekly Leaders
 1. EIP - 3
@@ -31,7 +31,7 @@ As a group Jack, Aaron, Fabuola, Brendan, and Tyler each pick an album that they
 
 [Ride the Lightning - Metallica](https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr)
 
-[One Time - Marian Hill](https://open.spotify.com/album/4GgwHp794AzZkv2hh8geZu)
+[Sway - Marian Hill](https://open.spotify.com/album/4GgwHp794AzZkv2hh8geZu)
 
 #### Week One
 [Black Holes and Revelations - Muse](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs)
