@@ -75,12 +75,14 @@ pre {
 a,
 a:visited {
   color: #01ff70;
+  text-decoration: none;
 }
 
 a:hover,
 a:focus,
 a:active {
   color: #2ecc40;
+  font-weight: 600;
 }
 
 .retro-no-decoration {
