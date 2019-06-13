@@ -20,7 +20,7 @@ As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they
 
 ### Weekly Leaders
 - 3 Guesses
-	- EIP - 3
+	- EIP
 - 4 Guesses
 	- Varsity Splunsters
 - 5 Guesses
