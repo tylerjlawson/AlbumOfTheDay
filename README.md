@@ -19,10 +19,13 @@ As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they
 [The Last Stand - Sabaton](https://open.spotify.com/album/3KePhGKcmAXACdYBFtILDX)
 
 ### Weekly Leaders
-1. EIP - 3
-2. Varsity Splunsters - 4
-3. Json ToVuelo - 5
-3. just ben - 5
+- 3 Guesses
+	- EIP - 3
+- 4 Guesses
+	- Varsity Splunsters
+- 5 Guesses
+	- Json ToVuelo
+	- just ben
 
 ### Past Weeks
 #### Week Two
