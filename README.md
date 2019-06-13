@@ -21,6 +21,7 @@ As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they
 ### Weekly Leaders
 1. EIP - 3
 2. SPLUNK - 4
+3. Json ToVuelo - 5
 
 ### Past Weeks
 #### Week Two
