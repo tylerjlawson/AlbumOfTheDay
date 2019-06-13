@@ -1,11 +1,10 @@
 # Album of the Week
 ### By: JBAFT (*-biː-eɪ-ɛf-tiː*)
 
-#### 5 guesses, we only say "yes" or "no"
 #### All guesses must be made in 14 West Cherry
 *all music links are through Spotify*
 
-As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they each enjoy and suggest. The goal of our weekly competition is to guess who selected each album. After 2 guesses you will be told how many out of 5 you have gotten correct. Good Luck.
+As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they each enjoy and suggest. The goal of our weekly competition is to guess who selected each album. You get 5 guesses, we start with only saying 'yes' or 'no'. After 2 guesses you will be told how many out of 5 you have gotten correct. Good Luck.
 
 ### Current Week
 [Business as Usual - Men at Work](https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84)
