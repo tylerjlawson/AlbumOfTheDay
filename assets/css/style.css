@@ -206,7 +206,9 @@ blockquote {
 
 ::selection {
   background: #2ecc40; /* WebKit/Blink Browsers */
+  color: white;
 }
 ::-moz-selection {
   background: #2ecc40; /* Gecko Browsers */
+  color: white;
 }
