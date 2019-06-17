@@ -46,3 +46,5 @@ As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they
 [A Little Bit Longer - Jonas Brothers](https://open.spotify.com/album/4jcRw4qVurxoZcfIYPKDpz)
 
 [The Incredible True Story - Logic](https://open.spotify.com/album/5dOpbgAmJeyoakKQ0QLWkR)
+
+*&copy; JBAFT (Benny Harvey RIP)*
