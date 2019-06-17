@@ -47,4 +47,4 @@ As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they
 
 [The Incredible True Story - Logic](https://open.spotify.com/album/5dOpbgAmJeyoakKQ0QLWkR)
 
-*&copy; JBAFT (Benny Harvey RIP)*
+<p class="copyright"><i>&copy; JBAFT (Benny Harvey RIP)</i></p>
