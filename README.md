@@ -7,6 +7,20 @@
 As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they each enjoy and suggest. The goal of our weekly competition is to guess who selected each album. You get 5 guesses, we start with only saying 'yes' or 'no'. After 2 guesses you will be told how many out of 5 you have gotten correct. Good Luck.
 
 ### Current Week
+[Doo-Wops & Hooligans - Bruno Mars](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX)
+
+[TIM - Avicii](https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ)
+
+[Nimrod - Green Day](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA)
+
+[All N' All - Earth, Wind & Fire](https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh)
+
+[Save Me, San Francisco - Train](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR)
+
+### Weekly Leaders
+
+### Past Weeks
+#### Week Three (Winner: Sulav)
 [Business as Usual - Men at Work](https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84)
 
 [Elephunk - Black Eyed Peas](https://open.spotify.com/album/4wBDclsxFzGnR4kVAAMI7K)
@@ -17,19 +31,7 @@ As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they
 
 [The Last Stand - Sabaton](https://open.spotify.com/album/3KePhGKcmAXACdYBFtILDX)
 
-### Weekly Leaders
-- 3 Guesses
-	- EIP
-- 4 Guesses
-	- Varsity Splunsters
-	- InternaLITics
-- 5 Guesses
-	- Json ToVuelo
-	- just ben
-	- Team Toothpick
-
-### Past Weeks
-#### Week Two
+#### Week Two (Winner: Sulav)
 [Confessions - Usher](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk)
 
 [Confessions of a Dangerous Mind - Logic](https://open.spotify.com/album/6GeHCNwwqMMUrpxuGTRYcf)
@@ -40,7 +42,7 @@ As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they
 
 [Sway - Marian Hill](https://open.spotify.com/album/4GgwHp794AzZkv2hh8geZu)
 
-#### Week One
+#### Week One (Winner: Sulav)
 [Black Holes and Revelations - Muse](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs)
 
 [A Little Bit Longer - Jonas Brothers](https://open.spotify.com/album/4jcRw4qVurxoZcfIYPKDpz)
