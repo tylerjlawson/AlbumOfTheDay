@@ -19,7 +19,7 @@ As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they
 
 ### Weekly Leaders
 - 5 Guesses
--- Ben
+ - Ben
 
 ### Past Weeks
 #### Week Three (Winner: Sulav)
