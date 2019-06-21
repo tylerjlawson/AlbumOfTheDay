@@ -18,6 +18,8 @@ As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they
 [Save Me, San Francisco - Train](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR)
 
 ### Weekly Leaders
+- 4 Guesses
+	- Baby Shark (EIP)
 - 5 Guesses
 	- Ben
 
