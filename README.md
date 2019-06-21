@@ -19,6 +19,7 @@ As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they
 
 ### Weekly Leaders
 - 4 Guesses
+	- Json ToVuelo
 	- Baby Shark (EIP)
 - 5 Guesses
 	- Ben
