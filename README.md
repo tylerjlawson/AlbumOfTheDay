@@ -13,7 +13,7 @@ As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they
 
 [Sugar - Tobu](https://open.spotify.com/album/1d1l3UkeAjtM7kVTDyR8yp)
 
-[Dirty Deeds - AC/DC](https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI)
+[Dirty Deeds Done Dirt Cheap - AC/DC](https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI)
 
 [Paper Trail - T.I.](https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC)
 
