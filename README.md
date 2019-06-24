@@ -7,6 +7,21 @@
 As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they each enjoy and suggest. The goal of our weekly competition is to guess who selected each album. You get 5 guesses, we start with only saying 'yes' or 'no'. After 2 guesses you will be told how many out of 5 you have gotten correct. Good Luck.
 
 ### Current Week
+[Michael Bublé - Michael Bublé](https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2)
+
+[Wild Ones - Flo Rida](https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk)
+
+[Sugar - Tobu](https://open.spotify.com/album/1d1l3UkeAjtM7kVTDyR8yp)
+
+[Dirty Deeds - AC/DC](https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI)
+
+[Paper Trail - T.I.](https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC)
+
+### Weekly Leaders
+<!-- Baby Shark(EIP) & Json ToVuelo -->
+
+### Past Weeks
+#### Week Four (Winner: TBD)
 [Doo-Wops & Hooligans - Bruno Mars](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX)
 
 [TIM - Avicii](https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ)
@@ -17,14 +32,6 @@ As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they
 
 [Save Me, San Francisco - Train](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR)
 
-### Weekly Leaders
-- 4 Guesses
-	- Json ToVuelo
-	- Baby Shark (EIP)
-- 5 Guesses
-	- Ben
-
-### Past Weeks
 #### Week Three (Winner: Sulav)
 [Business as Usual - Men at Work](https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84)
 
