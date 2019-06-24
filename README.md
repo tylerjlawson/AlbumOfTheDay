@@ -18,10 +18,9 @@ As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they
 [Paper Trail - T.I.](https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC)
 
 ### Weekly Leaders
-<!-- Baby Shark(EIP) & Json ToVuelo with 4 -->
 
 ### Past Weeks
-#### Week Four (Winner: TBD)
+#### Week Four (Winners: Baby Shark, Json, ToVuelo, & Sulav)
 [Doo-Wops & Hooligans - Bruno Mars](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX)
 
 [TIM - Avicii](https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ)
