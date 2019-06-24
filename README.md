@@ -18,7 +18,7 @@ As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they
 [Paper Trail - T.I.](https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC)
 
 ### Weekly Leaders
-<!-- Baby Shark(EIP) & Json ToVuelo -->
+<!-- Baby Shark(EIP) & Json ToVuelo with 4 -->
 
 ### Past Weeks
 #### Week Four (Winner: TBD)
