@@ -20,9 +20,11 @@ As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they
 ### Weekly Leaders
 - 2 Guesses
 	- Team Toothpick
+- 3 Guesses
+	- Json ToVuelo
 
 ### Past Weeks
-#### Week Four (Winners: Baby Shark, Json, ToVuelo, & Sulav)
+#### Week Four (Winners: Baby Shark, Json ToVuelo, & Sulav)
 [Doo-Wops & Hooligans - Bruno Mars](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX)
 
 [TIM - Avicii](https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ)
