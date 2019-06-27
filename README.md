@@ -26,6 +26,8 @@ As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they
 	- Json ToVuelo
 	- Ben
 	- Varsity Splunksterz
+- 52 Guesses
+	- High Performance Quitters
 
 ### Past Weeks
 #### Week Four (Winners: Baby Shark, Json ToVuelo, & Sulav)
