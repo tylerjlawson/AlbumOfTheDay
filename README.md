@@ -8,6 +8,7 @@ As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they
 
 ### Current Week
 *Hint: Go with your gut*
+
 [Michael Bublé - Michael Bublé](https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2)
 
 [Wild Ones - Flo Rida](https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk)
