@@ -18,6 +18,7 @@ As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they
 [Paper Trail - T.I.](https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC)
 
 ### Weekly Leaders
+*Hint: Go with your gut*
 - 2 Guesses
 	- Team Toothpick
 - 3 Guesses
