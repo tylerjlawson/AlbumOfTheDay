@@ -24,6 +24,7 @@ As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they
 	- Team Toothpick
 - 3 Guesses
 	- Json ToVuelo
+	- Ben
 
 ### Past Weeks
 #### Week Four (Winners: Baby Shark, Json ToVuelo, & Sulav)
