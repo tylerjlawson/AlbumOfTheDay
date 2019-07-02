@@ -7,7 +7,7 @@
 As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they each enjoy and suggest. The goal of our weekly competition is to guess who selected each album. You get 5 guesses, we start with only saying 'yes' or 'no'. After 2 guesses you will be told how many out of 5 you have gotten correct. Good Luck.
 
 ### Current Week
-[Greatest Hits - *NSYNC](https://open.spotify.com/album/45gbCmUeq5ZMgXiDkPweRD)
+[Greatest Hits - \*NSYNC](https://open.spotify.com/album/45gbCmUeq5ZMgXiDkPweRD)
 
 [Abba Gold: Greatest Hits - Abba](https://open.spotify.com/playlist/5zDA9OCLRf44MfKBus4Klj)
 
@@ -15,7 +15,7 @@ As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they
 
 [Led Zeppelin IV - Led Zeppelin](https://open.spotify.com/album/1Ugdi2OTxKopVVqsprp5pb)
 
-[Acid Rain - Chance the Rapper](https://open.spotify.com/album/2VBcztE58pBKjIDS5oEgFh)
+[Acid Rap - Chance the Rapper](https://open.spotify.com/album/2VBcztE58pBKjIDS5oEgFh)
 
 ### Weekly Leaders
 - 1 Guess
