@@ -7,8 +7,22 @@
 As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they each enjoy and suggest. The goal of our weekly competition is to guess who selected each album. You get 5 guesses, we start with only saying 'yes' or 'no'. After 2 guesses you will be told how many out of 5 you have gotten correct. Good Luck.
 
 ### Current Week
-*Hint: Go with your gut*
+[Greatest Hits - *NSYNC](https://open.spotify.com/album/45gbCmUeq5ZMgXiDkPweRD)
 
+[Abba Gold: Greatest Hits - Abba](https://open.spotify.com/playlist/5zDA9OCLRf44MfKBus4Klj)
+
+[Confrontation - Bob Marley & The Wailers](https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun)
+
+[Led Zeppelin IV - Led Zeppelin](https://open.spotify.com/album/1Ugdi2OTxKopVVqsprp5pb)
+
+[Acid Rain - Chance the Rapper](https://open.spotify.com/album/2VBcztE58pBKjIDS5oEgFh)
+
+### Weekly Leaders
+- 1 Guess
+	- Team Toothpick
+
+### Past Weeks
+#### Week Five (Winners: Team Toothpick)
 [Michael Bublé - Michael Bublé](https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2)
 
 [Wild Ones - Flo Rida](https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk)
@@ -19,18 +33,6 @@ As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they
 
 [Paper Trail - T.I.](https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC)
 
-### Weekly Leaders
-- 2 Guesses
-	- Team Toothpick
-- 3 Guesses
-	- Json ToVuelo
-	- Ben
-	- Varsity Splunksterz
-	- In Rudi we trust
-- 52 Guesses
-	- High Performance Quitters
-
-### Past Weeks
 #### Week Four (Winners: Baby Shark, Json ToVuelo, & Sulav)
 [Doo-Wops & Hooligans - Bruno Mars](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX)
 
