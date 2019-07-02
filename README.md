@@ -20,6 +20,8 @@ As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they
 ### Weekly Leaders
 - 1 Guess
 	- Team Toothpick
+- 2 Guesses
+	-Sulav
 
 ### Past Weeks
 #### Week Five (Winners: Team Toothpick)
