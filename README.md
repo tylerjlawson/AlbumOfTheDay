@@ -20,6 +20,8 @@ As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they
 ### Weekly Leaders
 - 1 Guess
 	- Team Toothpick
+	- Team BEN
+	- In Rudi We Trust
 - 2 Guesses
 	- Sulav
 
