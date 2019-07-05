@@ -24,6 +24,7 @@ As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they
 	- In Rudi We Trust
 - 2 Guesses
 	- Sulav
+	- Json ToVuelo
 
 ### Past Weeks
 #### Week Five (Winners: Team Toothpick)
