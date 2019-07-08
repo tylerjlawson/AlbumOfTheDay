@@ -7,6 +7,20 @@
 As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they each enjoy and suggest. The goal of our weekly competition is to guess who selected each album. You get 5 guesses, we start with only saying 'yes' or 'no'. After 2 guesses you will be told how many out of 5 you have gotten correct. Good Luck.
 
 ### Current Week
+[Eminem - The Slim Shady LP](https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l)
+
+[Electric Light Orchestra - Discovery](https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem)
+
+[Fall Out Boy - Believers Never Die](https://open.spotify.com/album/2FkdqW19xrKlDfeZjWf4Gt)
+
+[Black Sabbath - Paranoid](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7)
+
+[Beyoncé - 4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ)
+
+### Weekly Leaders
+
+### Past Weeks
+#### Week Six (Winners: Team Toothpick, Team BEN, & In Rudi We Trust)
 [Greatest Hits - \*NSYNC](https://open.spotify.com/album/45gbCmUeq5ZMgXiDkPweRD)
 
 [Abba Gold: Greatest Hits - Abba](https://open.spotify.com/playlist/5zDA9OCLRf44MfKBus4Klj)
@@ -17,17 +31,7 @@ As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they
 
 [Acid Rap - Chance the Rapper](https://open.spotify.com/album/2VBcztE58pBKjIDS5oEgFh)
 
-### Weekly Leaders
-- 1 Guess
-	- Team Toothpick
-	- Team BEN
-	- In Rudi We Trust
-- 2 Guesses
-	- Sulav
-	- Json ToVuelo
-
-### Past Weeks
-#### Week Five (Winners: Team Toothpick)
+#### Week Five (Winner: Team Toothpick)
 [Michael Bublé - Michael Bublé](https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2)
 
 [Wild Ones - Flo Rida](https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk)
