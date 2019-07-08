@@ -7,15 +7,15 @@
 As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they each enjoy and suggest. The goal of our weekly competition is to guess who selected each album. You get 5 guesses, we start with only saying 'yes' or 'no'. After 2 guesses you will be told how many out of 5 you have gotten correct. Good Luck.
 
 ### Current Week
-[Eminem - The Slim Shady LP](https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l)
+[The Slim Shady LP - Eminem](https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l)
 
-[Electric Light Orchestra - Discovery](https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem)
+[Discovery - Electric Light Orchestra](https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem)
 
-[Fall Out Boy - Believers Never Die](https://open.spotify.com/album/2FkdqW19xrKlDfeZjWf4Gt)
+[Believers Never Die - Fall Out Boy](https://open.spotify.com/album/2FkdqW19xrKlDfeZjWf4Gt)
 
-[Black Sabbath - Paranoid](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7)
+[Paranoid - Black Sabbath](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7)
 
-[Beyoncé - 4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ)
+[4 - Beyoncé](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ)
 
 ### Weekly Leaders
 
