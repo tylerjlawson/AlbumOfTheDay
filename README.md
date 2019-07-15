@@ -6,7 +6,21 @@
 
 As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they each enjoy and suggest. The goal of our weekly competition is to guess who selected each album. You get 5 guesses, we start with only saying 'yes' or 'no'. After 2 guesses you will be told how many out of 5 you have gotten correct. Good Luck.
 
-### Current Week
+### Current Week (Movie Soundtrack Week)
+[Ghostbusters](https://open.spotify.com/album/0epcJ1L57tp3SF30aKyeWa)
+
+[Homecoming: The Live Album](https://open.spotify.com/album/35S1JCj5paIfElT2GODl6x)
+
+[Tarzan](https://open.spotify.com/album/1zszC1x9HYKxUCKVa62p7C)
+
+[Shrek (Only the Smash Mouth Tracks)](https://open.spotify.com/album/4fFn4t0JoZrNB3VY4HZ970)
+
+[LaLaLand](https://open.spotify.com/playlist/7rhDAZRzpfLDcbwQs5l9RE)
+
+### Weekly Leaders
+
+### Past Weeks
+#### Week Seven (Winner: In Rudi We Trust)
 [The Slim Shady LP - Eminem](https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l)
 
 [Discovery - Electric Light Orchestra](https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem)
@@ -17,9 +31,6 @@ As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they
 
 [4 - Beyoncé](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ)
 
-### Weekly Leaders
-
-### Past Weeks
 #### Week Six (Winners: Team Toothpick, Team BEN, & In Rudi We Trust)
 [Greatest Hits - \*NSYNC](https://open.spotify.com/album/45gbCmUeq5ZMgXiDkPweRD)
 
