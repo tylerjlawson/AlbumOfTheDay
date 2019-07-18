@@ -18,6 +18,9 @@ As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they
 [LaLaLand](https://open.spotify.com/playlist/7rhDAZRzpfLDcbwQs5l9RE)
 
 ### Weekly Leaders
+- 65 Guesses
+	- Json ToVuelo
+
 
 ### Past Weeks
 #### Week Seven (Winner: In Rudi We Trust)
