@@ -6,7 +6,21 @@
 
 As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they each enjoy and suggest. The goal of our weekly competition is to guess who selected each album. You get 5 guesses, we start with only saying 'yes' or 'no'. After 2 guesses you will be told how many out of 5 you have gotten correct. Good Luck.
 
-### Current Week (Movie Soundtrack Week)
+### Current Week (Christmas in July Edition)
+[Under the Mistletoe - Justin Bieber](https://open.spotify.com/album/3cr4Xgz8nnfp7iYbVqwzzH)
+
+[Christmas - Michael Bublé](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0)
+
+[Jackson Five Christmas Album - The Jackson 5](https://open.spotify.com/album/6J7kk80VywP59lPn8E5Cal)
+
+[Merry Christmas - Mariah Carey](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN)
+
+[Rudolph the Rednose Reindeer - DMX](https://open.spotify.com/album/4pPYffqEe0QKJPf4FEgH2u)
+
+### Weekly Leaders 
+
+### Past Weeks
+#### Week Eight (Winners: In Rudi We Trust and Team Ben)
 [Ghostbusters](https://open.spotify.com/album/0epcJ1L57tp3SF30aKyeWa)
 
 [Homecoming: The Live Album](https://open.spotify.com/album/35S1JCj5paIfElT2GODl6x)
@@ -17,14 +31,6 @@ As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they
 
 [LaLaLand](https://open.spotify.com/playlist/7rhDAZRzpfLDcbwQs5l9RE)
 
-### Weekly Leaders
-- 1 Guess
-	- Team Ben
-- 65 Guesses
-	- Json ToVuelo
-
-
-### Past Weeks
 #### Week Seven (Winner: In Rudi We Trust)
 [The Slim Shady LP - Eminem](https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l)
 
