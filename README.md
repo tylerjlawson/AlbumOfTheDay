@@ -18,6 +18,11 @@ As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they
 [Rudolph the Rednose Reindeer - DMX](https://open.spotify.com/album/4pPYffqEe0QKJPf4FEgH2u)
 
 ### Weekly Leaders 
+- Two Guesses
+    - Rüd Toothpick
+
+- Four Guesses
+    - Json ToVuelo
 
 ### Past Weeks
 #### Week Eight (Winners: In Rudi We Trust and Team Ben)
