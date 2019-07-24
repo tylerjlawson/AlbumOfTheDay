@@ -22,7 +22,7 @@ As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they
     - Rüd Toothpick
 
 - Four Guesses
-    - Json ToVuelo
+    - JSON ToVuelo
 
 ### Past Weeks
 #### Week Eight (Winners: In Rudi We Trust and Team Ben)
