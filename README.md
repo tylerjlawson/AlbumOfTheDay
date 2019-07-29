@@ -6,7 +6,23 @@
 
 As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they each enjoy and suggest. The goal of our weekly competition is to guess who selected each album. You get 5 guesses, we start with only saying 'yes' or 'no'. After 2 guesses you will be told how many out of 5 you have gotten correct. Good Luck.
 
-### Current Week (Christmas in July Edition)
+### Current Week (Bye Bye)
+[American Beauty - Grateful Dead](https://open.spotify.com/album/2UDDZVesmQwA4aYfa55diS)
+
+[I Am...World Tour - Beyoncé](https://open.spotify.com/album/5O7PYNgE3VLWrvB80fIaDZ)
+
+[The Rising Tied - Fort Minor](https://open.spotify.com/album/5v4Vx9loqMQCS3J7OmP9pa)
+
+[Kids In Love - Kygo](https://open.spotify.com/album/5PwJQShNbsoWSKZ9VPEHTY)
+
+[Revenge of the Dreamers III - Dreamville & J. Cole](https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI)
+
+### Weekly Leaders 
+- 7ish Guesses
+    - Sulav
+
+### Past Weeks
+#### Week Nine (Winners: Rüd Toothpick)
 [Under the Mistletoe - Justin Bieber](https://open.spotify.com/album/3cr4Xgz8nnfp7iYbVqwzzH)
 
 [Christmas - Michael Bublé](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0)
@@ -17,14 +33,6 @@ As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they
 
 [Rudolph the Rednose Reindeer - DMX](https://open.spotify.com/album/4pPYffqEe0QKJPf4FEgH2u)
 
-### Weekly Leaders 
-- Two Guesses
-    - Rüd Toothpick
-
-- Four Guesses
-    - JSON ToVuelo
-
-### Past Weeks
 #### Week Eight (Winners: In Rudi We Trust and Team Ben)
 [Ghostbusters](https://open.spotify.com/album/0epcJ1L57tp3SF30aKyeWa)
 
