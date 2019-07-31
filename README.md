@@ -9,7 +9,7 @@ As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they
 ### Current Week (Bye Bye)
 [American Beauty - Grateful Dead](https://open.spotify.com/album/2UDDZVesmQwA4aYfa55diS)
 
-[I Am ... World Tour - Beyoncé](https://open.spotify.com/album/5O7PYNgE3VLWrvB80fIaDZ)
+[I Am... World Tour - Beyoncé](https://open.spotify.com/album/5O7PYNgE3VLWrvB80fIaDZ)
 
 [The Rising Tied - Fort Minor](https://open.spotify.com/album/5v4Vx9loqMQCS3J7OmP9pa)
 
