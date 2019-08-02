@@ -18,6 +18,8 @@ As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they
 [Revenge of the Dreamers III - Dreamville & J. Cole](https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI)
 
 ### Weekly Leaders
+- 1 Guess
+	- Team Ben
 - 2 Guesses
     - Varsity Splunksters
     
