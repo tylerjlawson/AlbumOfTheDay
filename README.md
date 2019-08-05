@@ -18,6 +18,8 @@ As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they
 [Let There Be Cello - 2CELLOS](https://open.spotify.com/album/1tqitQVdu4ygSsO5AABG3F)
 
 ### Weekly Leaders
+- Two Guesses
+	- Boss
 
 ### Past Weeks
 #### Week Ten (Winners: Team Ben)
