@@ -6,7 +6,21 @@
 
 As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they each enjoy and suggest. The goal of our weekly competition is to guess who selected each album. You get 5 guesses, we start with only saying 'yes' or 'no'. After 2 guesses you will be told how many out of 5 you have gotten correct. Good Luck.
 
-### Current Week (Bye Bye)
+### Current Week
+[Let There Be Cello - 2CELLOS](https://open.spotify.com/album/1tqitQVdu4ygSsO5AABG3F)
+
+[Beyoncé - Beyoncé](https://open.spotify.com/album/6KPiNRUaPSuFVes2xEUjYk)
+
+[Troubles of the Brain - The Veils](https://open.spotify.com/album/4rX3fcBYICA23li95d7mgK)
+
+[On My Way - Ice Billion Berg](https://open.spotify.com/album/5XxC78UFSqWtqfBhcC8Y2k)
+
+[Astro Lounge - Smash Mouth](https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P)
+
+### Weekly Leaders
+
+### Past Weeks
+#### Week Ten (Winners: Team Ben)
 [American Beauty - Grateful Dead](https://open.spotify.com/album/2UDDZVesmQwA4aYfa55diS)
 
 [I Am... World Tour - Beyoncé](https://open.spotify.com/album/5O7PYNgE3VLWrvB80fIaDZ)
@@ -17,15 +31,6 @@ As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they
 
 [Revenge of the Dreamers III - Dreamville & J. Cole](https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI)
 
-### Weekly Leaders
-- 1 Guess
-	- Team Ben
-- 2 Guesses
-    - Varsity Splunksters
-- 7ish Guesses
-    - Sulav
-
-### Past Weeks
 #### Week Nine (Winners: Rüd Toothpick)
 [Under the Mistletoe - Justin Bieber](https://open.spotify.com/album/3cr4Xgz8nnfp7iYbVqwzzH)
 
