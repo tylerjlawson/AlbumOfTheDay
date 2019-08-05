@@ -7,15 +7,15 @@
 As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they each enjoy and suggest. The goal of our weekly competition is to guess who selected each album. You get 5 guesses, we start with only saying 'yes' or 'no'. After 2 guesses you will be told how many out of 5 you have gotten correct. Good Luck.
 
 ### Current Week
-[Let There Be Cello - 2CELLOS](https://open.spotify.com/album/1tqitQVdu4ygSsO5AABG3F)
-
-[Beyoncé - Beyoncé](https://open.spotify.com/album/6KPiNRUaPSuFVes2xEUjYk)
+[Astro Lounge - Smash Mouth](https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P)
 
 [Troubles of the Brain - The Veils](https://open.spotify.com/album/4rX3fcBYICA23li95d7mgK)
 
 [On My Way - Ice Billion Berg](https://open.spotify.com/album/5XxC78UFSqWtqfBhcC8Y2k)
 
-[Astro Lounge - Smash Mouth](https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P)
+[Beyoncé - Beyoncé](https://open.spotify.com/album/6KPiNRUaPSuFVes2xEUjYk)
+
+[Let There Be Cello - 2CELLOS](https://open.spotify.com/album/1tqitQVdu4ygSsO5AABG3F)
 
 ### Weekly Leaders
 
