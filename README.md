@@ -22,6 +22,8 @@ As a group Jack, Brendan, Aaron, Fabuola, and Tyler each pick an album that they
 	- Team Ben
 - Two Guesses
 	- Boss
+- Three Guesses
+	- Dad
 
 ### Past Weeks
 #### Week Ten (Winners: Team Ben)
